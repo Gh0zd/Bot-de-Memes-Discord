@@ -1,0 +1,25 @@
+{
+    "token": "",
+    "messageContentCommands": {
+        "prefix": "!",
+        "status": true
+    },
+    "ownerIds": [],
+    "loadSlashsGlobal": false,
+    "slashCommandDirs": [
+        {
+            "folderName": "utility",
+            "commandName": "utility",
+            "commandDescription": "Comandos de utilidad."
+        }
+    ],
+    "presence": {
+        "status": "online",
+        "activities": [
+            {
+                "name": "memes | /memes",
+                "type": 3
+            }
+        ]
+    }
+}
