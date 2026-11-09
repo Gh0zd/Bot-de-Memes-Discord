@@ -1,4 +1,4 @@
-<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bot de Memes&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Bot-de-Memes&fontSize=80&fontAlignY=35&animation=twinkling&fontColor=gradient"/>
 
 # Bot de memes para Discord
 Bot basado en discord.js v14 para administrar un canal de memes, reenviar contenido de redes sociales y publicar mensajes destacados en un servidor.
